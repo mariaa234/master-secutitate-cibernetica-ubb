@@ -1,0 +1,2 @@
+# Grile parțial
+
