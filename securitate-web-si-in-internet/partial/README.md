@@ -20,3 +20,23 @@
 - [ ] cererile și răspunsurile venite spre și dinspre acestea
 - [ ] documentele semnate
 
+4. Care dintre următoarele afirmații despre procesul de schimb de chei sunt adevărate în contextul folosirii algoritmilor de criptare simetrici, respectiv asimetrici:
+
+- [x] În ambele situații, schimbul de chei se poate realiza pe același canal / prin același mecanism prin care are loc și comunicarea
+- [ ] Schimbul de chei pe un alt canal / mecanism diferit de comunicare alternativ trebuie să se realizeze doar în cazul algoritmilor de criptare asimetrici
+- [ ] Schimbul de chei pe un alt canal / mecanism diferit de comunicare alternativ trebuie să se realizeze doar în cazul algoritmilor de criptare simetrici
+- [ ] În ambele situații, schimbul de chei trebuie să se desfășoare pe un alt canal / printr-un mecanism de comunicare alternativ
+
+5. Care dintre următoarele reprezintă proprietăți care trebuie să fie respectate de către o semnătură electronică:
+
+- [ ] nereutilizabilă
+- [x] nerepudiabilă
+- [x] nefalsificabilă
+- [x] autentică
+- [x] nealterabilă
+
+6. Care este cel mai uzual mod de transmitere a unei chei publice către terți:
+- [ ] Pe un canal alternativ care nu poate fi controlat de atacator
+- [ ] Pe un canal de comunicare criptat pentru a asigura confidențialitatea cheii
+- [ ] Fiind vorba de o cheie publică, nu este important ca, canalul pe care este transmisă să fie sigur
+- [x] În cadrul unui certificat digital
